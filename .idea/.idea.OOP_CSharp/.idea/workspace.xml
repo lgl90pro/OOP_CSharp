@@ -9,11 +9,16 @@
     <projectFile>Task_5/Task_5.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c21a54-fd84-4c98-806f-ca4817849a13" name="Default Changelist" comment="" />
+    <list default="true" id="51c21a54-fd84-4c98-806f-ca4817849a13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp1Task_5/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -31,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1k7VwQDojjZK4wuYtrdbk04ZSVl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Project.Task_5">
@@ -159,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605051856907</updated>
       <workItem from="1605051861181" duration="148000" />
-      <workItem from="1605052059842" duration="302000" />
+      <workItem from="1605052059842" duration="1333000" />
     </task>
     <servers />
   </component>
@@ -172,10 +179,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="831" y="418" key="Github.ShareDialog" timestamp="1605052562803">
+    <state x="831" y="418" key="Github.ShareDialog" timestamp="1605052840292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="831" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605052562803" />
+    <state x="831" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605052840292" />
+    <state x="735" y="226" key="Github.UntrackedFilesDialog" timestamp="1605052858953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605052858953" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605052395571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -196,5 +207,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1605051906965" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605053402638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605053402638" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605053208565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605053208565" />
   </component>
 </project>
