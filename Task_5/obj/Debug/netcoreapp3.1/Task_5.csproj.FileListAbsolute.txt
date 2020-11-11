@@ -1,0 +1,13 @@
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.exe
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.deps.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.runtimeconfig.dev.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.dll
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\bin\Debug\netcoreapp3.1\Task_5.pdb
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.csprojAssemblyReference.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfoInputs.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.AssemblyInfo.cs
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.dll
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.pdb
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_5\obj\Debug\netcoreapp3.1\Task_5.genruntimeconfig.cache
