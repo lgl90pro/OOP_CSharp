@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace HelloWorld2
+namespace Task_5
 {
     class Program
     {
@@ -22,6 +22,7 @@ namespace HelloWorld2
             Converting(x, y, ref z);
             Console.WriteLine($"\nМасив x після зменшення непарних елементів тричі:\n{string.Join(' ', x)}.");
             Console.WriteLine($"\nМасив z: {string.Join(' ', z)}");
+            Console.ReadKey();
         }
         
         private static double[] ReadFromFile(string path)
@@ -49,8 +50,11 @@ namespace HelloWorld2
 
         private static void DivisionByThree(ref double[] x)
         {
-            for (int i = 0; i < x.Length; i += 2)
-                x[i] /= 3;
+            for (int i = 0; i < x.Length; i++)
+                if (x[i] % 2 != 0)
+                {
+                    x[i] /= 3;
+                }
         }
 
         private static void Converting(double[] x, double[] y, ref double[] z)

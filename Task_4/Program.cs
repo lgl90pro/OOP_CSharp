@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace HelloWorld
+namespace Task_4
 {
     class Program
     {
@@ -20,6 +20,7 @@ namespace HelloWorld
             Operation.Dif(a, b, c, d);
             Operation.Mul(a, b, c, d);
             Operation.ToDouble(a, b);
+            Console.ReadKey();
 
         }
     }
