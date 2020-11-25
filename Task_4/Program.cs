@@ -11,21 +11,28 @@ namespace Task_4
             Console.OutputEncoding = Encoding.Unicode;
             Console.InputEncoding = Encoding.Unicode;
             
-            int a = 0; // чисельник, що задає користувач
-            int b = 0; // знаменник, що задає користувач
-            int c = 3; // чисельник для прикладу
-            int d = 7; // знаменник для прикладу
-            Operation.Input(ref a, ref b);
-            Operation.Sum(a, b, c, d);
-            Operation.Dif(a, b, c, d);
-            Operation.Mul(a, b, c, d);
-            Operation.ToDouble(a, b);
+            Fracion fracion = new Fracion();
+            fracion.Operation();
             Console.ReadKey();
 
         }
     }
-    class Operation
+    class Fracion
     {
+        public int a = 0;
+        public int b = 0;
+        public int c = 3;
+        public int d = 7;
+
+        public void Operation()
+        {
+            Input(ref a, ref b);
+            Sum(a, b, c, d);
+            Dif(a, b, c, d);
+            Mul(a, b, c, d);
+            ToDouble(a, b);
+        }
+
         public static void Input(ref int a, ref int b) // введення даних
         {
             
