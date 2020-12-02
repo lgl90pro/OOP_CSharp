@@ -164,6 +164,13 @@ namespace Task_7
     }
     public class WeatherParametersDay
     {
+        int numberDay;
+        int type;
+        double dayTemp;
+        double nightTemp;
+        double atmPressure;
+        double precipitation;
+        
         enum WeatherType // створюэмо enum для перерахування типів погоди
         {
             Empty = 0,
@@ -175,13 +182,6 @@ namespace Task_7
             Darkly = 6,
             Sunny = 7
         }
-        
-        private int numberDay;
-        private int type;
-        private double dayTemp;
-        private double nightTemp;
-        private double atmPressure;
-        private double precipitation;
 
         public void SetParameters() // вводимо всі параметри з клавіатури
         {
