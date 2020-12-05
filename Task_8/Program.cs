@@ -19,8 +19,8 @@ namespace Task_8
             d.InputFromTerminal();
             Console.WriteLine();
 
-            c = a + b;
-            Console.WriteLine($"А + B = {c.ToString()}");
+            c = a + d;
+            Console.WriteLine($"А + D = {c.ToString()}");
 
             c = a + 10.5;
             Console.WriteLine($"А + 10.5 = {c.ToString()}");
@@ -45,6 +45,8 @@ namespace Task_8
             Console.WriteLine($"B = {b.ToString()}");
             Console.WriteLine($"C = {c.ToString()}");
             Console.WriteLine($"D = {d.ToString()}");
+
+            Console.ReadKey();
         }
     }
     
@@ -113,7 +115,7 @@ namespace Task_8
         }
         public static MyComplex operator +(double b, MyComplex a)
         {
-            return new MyComplex(b + a.re, a.im);
+            return a + b;
         }
         public static MyComplex operator -(MyComplex a)
         {
@@ -121,15 +123,15 @@ namespace Task_8
         }
         public static MyComplex operator *(MyComplex a, MyComplex b)
         {
-            return new MyComplex(a.re * b.im + a.im * b.re);
+            return new MyComplex(a.re * b.re + a.im * b.im);
         }
         public static MyComplex operator *(double b, MyComplex a)
         {
-            return new MyComplex(a.re * 0 + a.im * b);
+            return new MyComplex(b * a.re + 0 * a.im);
         }
         public static MyComplex operator *(MyComplex a, double b)
         {
-            return new MyComplex(a.re * 0 + a.im * b);
+            return b * a;
         }
         
         public override string ToString()

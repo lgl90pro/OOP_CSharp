@@ -1,0 +1,13 @@
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.exe
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.deps.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.runtimeconfig.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.runtimeconfig.dev.json
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.dll
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\bin\Debug\netcoreapp3.1\Task_9.pdb
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.csprojAssemblyReference.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.AssemblyInfoInputs.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.AssemblyInfo.cs
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.csproj.CoreCompileInputs.cache
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.dll
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.pdb
+C:\Users\Vladyslav\RiderProjects\OOP_CSharp\Task_9\obj\Debug\netcoreapp3.1\Task_9.genruntimeconfig.cache

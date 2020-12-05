@@ -10,6 +10,8 @@
     <projectFile>Task_6/Task_6.csproj</projectFile>
     <projectFile>Task_7/Task_7.csproj</projectFile>
     <projectFile>Task_8/Task_8.csproj</projectFile>
+    <projectFile>test/test.csproj</projectFile>
+    <projectFile>Task_9/Task_9.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -31,21 +33,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51c21a54-fd84-4c98-806f-ca4817849a13" name="Default Changelist" comment="Commit 1">
+      <change afterPath="$PROJECT_DIR$/Task_9/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/Task_9.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/bin/Debug/netcoreapp3.1/Task_9.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Debug/netcoreapp3.1/Task_9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Task_9.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Task_9.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/Task_9.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OOP_CSharp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP_CSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_CSharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_4/obj/Debug/netcoreapp3.1/Task_4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task_4/obj/Debug/netcoreapp3.1/Task_4.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_6/bin/Debug/netcoreapp3.1/Task_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6/bin/Debug/netcoreapp3.1/Task_6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_6/bin/Debug/netcoreapp3.1/Task_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6/bin/Debug/netcoreapp3.1/Task_6.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6/obj/Debug/netcoreapp3.1/Task_6.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/bin/Debug/netcoreapp3.1/Task_7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/bin/Debug/netcoreapp3.1/Task_7.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/bin/Debug/netcoreapp3.1/Task_7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/bin/Debug/netcoreapp3.1/Task_7.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7/obj/Debug/netcoreapp3.1/Task_7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/bin/Debug/netcoreapp3.1/Task_8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/bin/Debug/netcoreapp3.1/Task_8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/bin/Debug/netcoreapp3.1/Task_8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/bin/Debug/netcoreapp3.1/Task_8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8/obj/Debug/netcoreapp3.1/Task_8.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +99,12 @@
         <option value="$PROJECT_DIR$/Task_2/Program.cs" />
         <option value="$PROJECT_DIR$/Task_3/Program.cs" />
         <option value="$PROJECT_DIR$/Task_5/Program.cs" />
-        <option value="$PROJECT_DIR$/Task_4/Program.cs" />
-        <option value="$PROJECT_DIR$/Task_7/Program.cs" />
         <option value="$PROJECT_DIR$/Task_6/Program.cs" />
         <option value="$PROJECT_DIR$/Task_8/Program.cs" />
+        <option value="$PROJECT_DIR$/Task_4/Program.cs" />
+        <option value="$PROJECT_DIR$/Task_7/Program.cs" />
+        <option value="$PROJECT_DIR$/test/Program.cs" />
+        <option value="$PROJECT_DIR$/Task_9/Program.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +122,7 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Task_8">
+  <component name="RunManager" selected=".NET Project.Task_9">
     <configuration name="ConsoleApp1Task_5" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -256,6 +285,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Task_9" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Task_9/Task_9.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="test" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/test/test.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue=".NET Project.ConsoleApp1Task_5" />
       <item itemvalue=".NET Project.Task_1" />
@@ -266,6 +331,8 @@
       <item itemvalue=".NET Project.Task_6" />
       <item itemvalue=".NET Project.Task_7" />
       <item itemvalue=".NET Project.Task_8" />
+      <item itemvalue=".NET Project.test" />
+      <item itemvalue=".NET Project.Task_9" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -284,7 +351,13 @@
       <workItem from="1606272698070" duration="51000" />
       <workItem from="1606296067105" duration="9970000" />
       <workItem from="1606483672290" duration="593000" />
-      <workItem from="1606869643726" duration="5069000" />
+      <workItem from="1606869643726" duration="5245000" />
+      <workItem from="1606907009561" duration="2652000" />
+      <workItem from="1606943681339" duration="927000" />
+      <workItem from="1607124066725" duration="6732000" />
+      <workItem from="1607149006015" duration="85000" />
+      <workItem from="1607149109942" duration="7000" />
+      <workItem from="1607149140913" duration="3582000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1605053417873</created>
@@ -335,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606299580891</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 1">
+      <created>1606874826408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606874826409</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,22 +455,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="735" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605052858953" />
-    <state width="914" height="457" key="GridCell.Tab.0.bottom" timestamp="1606874749790">
+    <state width="914" height="452" key="GridCell.Tab.0.bottom" timestamp="1607152376654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606874749790" />
-    <state width="914" height="457" key="GridCell.Tab.0.center" timestamp="1606874749789">
+    <state width="914" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607152376654" />
+    <state width="914" height="452" key="GridCell.Tab.0.center" timestamp="1607152376654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="457" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606874749789" />
-    <state width="914" height="457" key="GridCell.Tab.0.left" timestamp="1606874749789">
+    <state width="914" height="452" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607152376654" />
+    <state width="914" height="452" key="GridCell.Tab.0.left" timestamp="1607152376654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="457" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606874749789" />
-    <state width="914" height="457" key="GridCell.Tab.0.right" timestamp="1606874749790">
+    <state width="914" height="452" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607152376654" />
+    <state width="914" height="452" key="GridCell.Tab.0.right" timestamp="1607152376654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="457" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606874749790" />
+    <state width="914" height="452" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607152376654" />
     <state width="1877" height="235" key="GridCell.Tab.1.bottom" timestamp="1606272677551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -439,18 +519,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="235" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606272677551" />
-    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1606869664328">
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1607149155850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1606869664328" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1607149155850" />
+    <state x="749" y="230" key="RollbackChangesDialog" timestamp="1606874791487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606874791487" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1605053402638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605053402638" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606299582748">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606874833466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606299582748" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606874833466" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606272650700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
